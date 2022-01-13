@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ethersproject/providers": "^5.5.2",
+    "ethers": "^5.5.3",
+    "node-postgres-named-function-arguments": "^1.0.0",
+    "pg": "^8.7.1"
+  }
+}
